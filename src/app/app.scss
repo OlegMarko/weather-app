@@ -11,3 +11,25 @@
 .tabs .tab-button-icon, .tab-button-text{
     color: color($colors, light);
 }
+
+.temp{
+    font-size: 85px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.location, .icon, .desc{
+    text-align: center;
+}
+
+.icon img{
+    width: 75px;
+}
+
+.location{
+    font-size: 45px;
+}
+
+.desc{
+    font-size: 35px;
+}
